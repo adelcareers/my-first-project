@@ -1,5 +1,6 @@
 body {
     background-color: gray;
+    font-weight: bold;
     background-image: url("../images/background-img.jpg");
 }
 h2 {
